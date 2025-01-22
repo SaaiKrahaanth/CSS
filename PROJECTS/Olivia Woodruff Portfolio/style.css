@@ -1,0 +1,21 @@
+.header{
+    background-color:#0171B0;
+    text-align:center;
+    
+  }
+  .about-me{
+    font-size:20px;
+    opacity:50%;
+  }
+  .title{
+    font-weight:bold;
+  }
+  .header h1{
+    color:azure;
+  }
+  body{
+    font-family:Georgia;
+    background-image:url("https://cdn.pixabay.com/photo/2017/03/27/04/37/sunset-2177324_1280.jpg");
+    color:white;
+  
+  }
